@@ -235,7 +235,8 @@ Este agente se **personaliza específicamente para ti:**
 
 **Resultado:** 80-90% menos errores. ROI típico: 20-25 días.
 
-📧 **Contacto:** [tu email aquí]
+📧 **Contacto:** cristian@materialintelligence.com  
+💼 **LinkedIn:** https://linkedin.com/in/cris-cuevas
 
 ---
 
@@ -269,9 +270,9 @@ Este proyecto está bajo la Licencia MIT. Ver [LICENSE](LICENSE) para más detal
 
 ## 👤 Autor
 
-**Tu Nombre**  
+**Cristian Cuevas**  
 Especialista en SAP + IA  
-[LinkedIn](https://linkedin.com/in/tuusuario)  
+[LinkedIn](https://linkedin.com/in/cris-cuevas)  
 [GitHub](https://github.com/integralesa)
 
 ---
